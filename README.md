@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaushal Parmar</h1>
-<h3 align="center">A passionate Programmer</h3>
+<h3 align="center"> 🧑🏻‍💻 A passionate Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addictedk1&label=Profile%20views&color=0e75b6&style=flat" alt="addictedk1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addictedk1" alt="addictedk1" /></a> </p>
-
+[![](https://visitcount.itsvg.in/api?id=Kaushal&icon=1&color=0)](https://visitcount.itsvg.in)
 
 - 📫 Reach me **kaushalparmar018@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🤝🏻 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushal-parmar-54273b286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal parmar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kaushal018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaushal018" height="30" width="40" /></a>
@@ -16,8 +13,16 @@
 <a href="https://www.leetcode.com/addictedk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="addictedk1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools i worked with:</h3>
-</a><p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>  </a></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/ ></a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></a> <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fr%2Frust-logo%2F&psig=AOvVaw3xWTFCy3cWGkjFkk4Fmad_&ust=1725212908015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDc44bln4gDFQAAAAAdAAAAABAE" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fr%2Frust-logo%2F&psig=AOvVaw3xWTFCy3cWGkjFkk4Fmad_&ust=1725212908015000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDc44bln4gDFQAAAAAdAAAAABAE" alt="rust" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaushal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kaushal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addictedk1&show_icons=true&locale=en&layout=compact" alt="addictedk1" /></p>
 
